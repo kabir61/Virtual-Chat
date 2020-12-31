@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "555665287568",
+    "project_id": "virtual-chat-cdd8d",
+    "storage_bucket": "virtual-chat-cdd8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555665287568:android:368345ea01041561846b15",
+        "android_client_info": {
+          "package_name": "com.example.virtualchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "555665287568-6k7cssgdl4e2na89b99evdta08bp6m3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHwNZTl8CZEVlM0pyHcS25HD0omG8zFvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "555665287568-6k7cssgdl4e2na89b99evdta08bp6m3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
